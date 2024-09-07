@@ -1,1 +1,1 @@
-### I only made a GitHub in case I need to publicly release a thingy with source code, I mainly use GitLab for private repositories and so forth. Don't bother to contact me here, contact me on Twitter (@stixc_charles) or email (contact@stixc.lol)
+### This is my GitHub page. I actually migrated some of my personal projects over here from GitLab due to some stupid rules GitLab introduced that led me back here. So hello, I guess.
